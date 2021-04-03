@@ -1,4 +1,4 @@
-- 🤓 I wrote my first computer programs on the Sinclair ZX81 in...1981! Since then, I've run projects, lead teams, founded IT companies, written code in lots of different languages, worked in a plethera of OS's and queried more databases than I can count.
+- 🤓 I wrote my first computer programs on the Sinclair ZX81 in...1981! Since then I've run projects, lead teams, founded IT companies, written code in lots of different languages, worked in a plethera of OS's and queried more databases than I can count.
 So, this is me, I’m @simonkeeble
 - 👀 These days I'm mostly focused on developing web applications in JavaScript / React / Nodejs or PHP...sometimes a little python.
 - 🌱 Life is learning and I'm always learning something so lately I've been refreshing my C skills and doing some comparisons between Golang and Rust.
